@@ -32,3 +32,5 @@ const loopDuration = 2000; // Duration in milliseconds (e.g., 15000 ms = 15 seco
 setTimeout(() => {
     clearInterval(intervalId); // Clear the interval
 }, loopDuration);
+
+// Sample code
