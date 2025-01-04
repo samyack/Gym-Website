@@ -33,4 +33,3 @@ setTimeout(() => {
     clearInterval(intervalId); // Clear the interval
 }, loopDuration);
 
-// Sample code
